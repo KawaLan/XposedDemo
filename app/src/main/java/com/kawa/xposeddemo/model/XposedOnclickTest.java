@@ -14,9 +14,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 /****
  * <pre>
  *  Project_Name:    XposedDemo
- *  Copyright:       Copyright  2012-2018 G-emall Technology Co.,Ltd
  *  Created:         Kawa on 2018/6/22 16:47.
- *  E-mail:          zhenlin.liang@g-emall.com
  *  Desc:            模块（如果要引入此模块的话，就在assets/xposed_init 里面写入此模块的路径就行）
  * </pre>            路径：com.kawa.xposeddemo.model.XposedTest
  ****/
